@@ -1,0 +1,49 @@
+.all {
+     display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    row-gap: 2rem; 
+    column-gap: 3rem;
+
+
+
+}
+
+.all div {
+height: 20rem;
+width: 20rem;
+
+text-align: center;
+justify-content: center;
+text-size-adjust: 100px;
+
+text-shadow: 0cap;
+
+
+
+}
+
+.firstone{
+    background-color: rgb(6, 20, 32);
+}
+
+.first2{
+    background-color: rgb(9, 67, 67);
+}
+
+.first3{
+
+    background-color: rgb(26, 181, 181);
+}
+
+.first4{ background-color: blue;}
+
+
+.first5{
+    background-color: coral;
+
+}
+
+.first6
+{background-color: rgb(35, 35, 183);}
+
